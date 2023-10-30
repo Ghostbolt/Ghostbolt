@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Ghostbolt/Ghostbolt/banner/image.png" />
+<img src="https://github.com/Ghostbolt/Ghostbolt.git/banner/image.png" />
 
 
 <p align="center">
@@ -39,7 +39,7 @@ While I'm still on my educational journey and haven't graduated yet, I'm excited
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: lerza365@gmail.com">
- <img src="https://img.shields.io/badge/-elvisndungu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elvisndungu@gicloud.com"/>
+ <img src="https://img.shields.io/badge/-elvisndungu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lerza365@gmail.com"/>
 </a>
  <a href="https://twitter.com/elvisn_">
  <img src="https://img.shields.io/badge/-elvisn_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/elvisn_"/>
