@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ghostbolt">
-    <img src="https://github.com/ghostbolt/Ghostbolt/tree/main/assets/ghosbolt.png" alt="Leroy Jiyane" /></a>
+    <img src="https://github.com/ghostbolt/Ghostbolt/blob/main/assets/ghosbolt.png" alt="Leroy Jiyane" /></a>
 </p>
 
 <p align="center">
